@@ -1,0 +1,34 @@
+html {
+    font-size: 25px
+}
+body {
+      background-image: url('world.png');
+        color: beige;
+}
+
+a{
+    color:ghostwhite
+
+}
+
+
+
+
+a:visited{
+
+    color: firebrick;
+}
+
+a:hover{
+ color:cornflowerblue
+}
+
+li.helper:hover{
+    color: cyan;
+}
+li.owner:hover{
+    color: red;
+}
+li.resident:hover{
+    color: green;
+}
